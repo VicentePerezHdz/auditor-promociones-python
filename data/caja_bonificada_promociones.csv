@@ -1,0 +1,9 @@
+ruta,cliente,sku,producto,cajas,botellas,botellas_por_caja,precio_unitario,precio_esperado,umbral_cajas,caja_bonificada_capturado
+003,Mini Súper Luna,REF-350,Refresco Cola 350 ml,12,0,24,18.50,18.50,10,SI
+003,Abarrotes San Miguel,JUG-1L,Jugo Mango 1 L,8,12,12,22.00,22.00,9,NO
+012,Depósito La Ermita,AGU-600,Agua Natural 600 ml,5,0,24,,11.00,6,NO
+003,Tienda La Esquina,REF-2L,Refresco Cola 2 L,0,6,6,35.00,35.00,1,SI
+012,Super Ahorro Oriente,TE-500,Té Limón 500 ml,-1,0,24,13.00,13.00,4,NO
+003,Miscelánea Los Pinos,REF-350,Refresco Cola 350 ml,9,0,24,18.90,18.50,10,NO
+012,Modelorama Santa Fe,ENER-473,Bebida Energética 473 ml,10,0,24,27.50,27.50,10,SI
+003,La Bodega del Sol,AGU-600,Agua Natural 600 ml,6,12,24,11.00,11.00,6,NO
