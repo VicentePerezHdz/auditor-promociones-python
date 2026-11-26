@@ -1,5 +1,7 @@
 # Auditor de Promociones (Python)
 
+[![CI](https://github.com/VicentePerezHdz/auditor-promociones-python/actions/workflows/ci.yml/badge.svg)](https://github.com/VicentePerezHdz/auditor-promociones-python/actions/workflows/ci.yml) [![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
+
 Mini proyecto en Python para **auditar promociones por volumen**, validar reglas tipo **Caja Bonificada** y analizar datos (ficticios) de pedidos usando **Pandas**.
 
 El proyecto simula un escenario típico de fuerza de ventas: cada pedido trae una cantidad comprada (cajas/botellas) y una promoción capturada en campo. El auditor recalcula si la promoción *debería* haber aplicado según la regla de volumen, y marca cada registro como `OK`, `Error` o `Advertencia`.
@@ -105,6 +107,10 @@ python -m pytest
 - Python
 - Pandas
 - Pytest
+
+## 📄 Licencia
+
+[MIT](LICENSE)
 
 ## 👤 Autor
 
